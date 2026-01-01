@@ -1,16 +1,31 @@
-## Hi there 👋
+# Moncef Boujou
 
-<!--
-**Moncef-Bj/Moncef-Bj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD in Computer Vision & Artificial Intelligence  
+Applied AI / Computer Vision Engineer
 
-Here are some ideas to get you started:
+I work on **video understanding and human-centered computer vision**, from research to real-world systems:
+multi-camera tracking, person re-identification, trajectory analysis, and privacy-aware video analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Selected Work
+
+- **GAF-Net** — Video-based person re-identification (appearance + gait)  
+  Peer-reviewed research, VISAPP 2024  
+  https://github.com/Moncef-Bj/GAF-Net-for-Video-Based-Person-Re-Identification
+
+- **Face Anonymizer** — Real-time face detection and anonymization  
+  Practical, GDPR-oriented video processing  
+  https://github.com/Moncef-Bj/face-anonymizer
+
+- **Real-Time Motion Detection** — C++ / OpenCV  
+  High-performance motion detection pipeline  
+  https://github.com/Moncef-Bj/realtime-motion-detection
+
+---
+
+
+## Current Direction
+
+Exploring **RAG** and **Vision–Language Models (VLLMs)** through applied projects combining vision, structured data, and LLMs.
+
